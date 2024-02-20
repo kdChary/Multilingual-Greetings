@@ -1,0 +1,21 @@
+.tab-item {
+  padding: 0;
+  text-align: center;
+}
+
+.active {
+  background-color: #db1c48;
+  border: none;
+  color: #ffffff;
+}
+
+.button {
+  padding: 5px 9px;
+  font-size: 13px;
+  font-weight: 500;
+  color: #db1c48;
+  border: solid 1px #db1c48;
+  border-radius: 13px;
+  cursor: pointer;
+  outline: none;
+}

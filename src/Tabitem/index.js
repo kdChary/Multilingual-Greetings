@@ -10,7 +10,7 @@ const Tabitem = props => {
     console.log(id)
   }
 
-  const activeBtn = isActive ? 'active' : 'inActive'
+  const activeBtn = isActive ? 'active' : ''
 
   return (
     <li className="tab-item">
